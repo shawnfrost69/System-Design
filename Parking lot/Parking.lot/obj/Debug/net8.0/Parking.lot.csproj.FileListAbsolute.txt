@@ -12,3 +12,4 @@
 /Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking.lot/obj/Debug/net8.0/Parking.lot.pdb
 /Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking.lot/obj/Debug/net8.0/Parking.lot.genruntimeconfig.cache
 /Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking.lot/obj/Debug/net8.0/ref/Parking.lot.dll
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking.lot/obj/Debug/net8.0/Parking.lot.sourcelink.json
