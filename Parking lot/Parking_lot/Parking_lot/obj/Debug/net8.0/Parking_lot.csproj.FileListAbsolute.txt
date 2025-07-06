@@ -1,0 +1,15 @@
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/bin/Debug/net8.0/Parking_lot
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/bin/Debug/net8.0/Parking_lot.deps.json
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/bin/Debug/net8.0/Parking_lot.runtimeconfig.json
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/bin/Debug/net8.0/Parking_lot.dll
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/bin/Debug/net8.0/Parking_lot.pdb
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.AssemblyInfoInputs.cache
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.AssemblyInfo.cs
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.csproj.CoreCompileInputs.cache
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.sourcelink.json
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.dll
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/refint/Parking_lot.dll
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.pdb
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/Parking_lot.genruntimeconfig.cache
+/Users/heysky_69/Desktop/repos/System Design/Parking lot/Parking_lot/Parking_lot/obj/Debug/net8.0/ref/Parking_lot.dll

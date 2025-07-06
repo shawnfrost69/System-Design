@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking_lot", "Parking_lot\Parking_lot.csproj", "{5BE03965-4860-4B2C-93FA-105D92DADFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE03965-4860-4B2C-93FA-105D92DADFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE03965-4860-4B2C-93FA-105D92DADFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE03965-4860-4B2C-93FA-105D92DADFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE03965-4860-4B2C-93FA-105D92DADFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

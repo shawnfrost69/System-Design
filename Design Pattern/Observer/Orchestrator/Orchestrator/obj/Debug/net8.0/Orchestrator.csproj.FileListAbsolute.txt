@@ -1,0 +1,15 @@
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/bin/Debug/net8.0/Orchestrator
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/bin/Debug/net8.0/Orchestrator.deps.json
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/bin/Debug/net8.0/Orchestrator.runtimeconfig.json
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/bin/Debug/net8.0/Orchestrator.dll
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/bin/Debug/net8.0/Orchestrator.pdb
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.AssemblyInfoInputs.cache
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.AssemblyInfo.cs
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.csproj.CoreCompileInputs.cache
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.sourcelink.json
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.dll
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/refint/Orchestrator.dll
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.pdb
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/Orchestrator.genruntimeconfig.cache
+/Users/heysky_69/Desktop/repos/System Design/Design Pattern/Observer/Orchestrator/Orchestrator/obj/Debug/net8.0/ref/Orchestrator.dll

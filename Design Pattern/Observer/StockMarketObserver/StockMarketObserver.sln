@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarketObserver", "StockMarketObserver\StockMarketObserver.csproj", "{FFC3FD9E-489A-44B8-94B5-B799C764ED4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarketObserver.Tests", "StockMarketObserver.Tests\StockMarketObserver.Tests.csproj", "{288A21B8-9459-4AAD-83CA-2218DAECC9A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC3FD9E-489A-44B8-94B5-B799C764ED4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC3FD9E-489A-44B8-94B5-B799C764ED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC3FD9E-489A-44B8-94B5-B799C764ED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC3FD9E-489A-44B8-94B5-B799C764ED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288A21B8-9459-4AAD-83CA-2218DAECC9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288A21B8-9459-4AAD-83CA-2218DAECC9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288A21B8-9459-4AAD-83CA-2218DAECC9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288A21B8-9459-4AAD-83CA-2218DAECC9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
