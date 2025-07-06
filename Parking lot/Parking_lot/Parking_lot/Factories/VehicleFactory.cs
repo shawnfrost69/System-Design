@@ -8,7 +8,6 @@ public class VehicleFactory : IVehicleFactory
 {
     public Vehicle CreateVehicle(string licensePlate, VehicleType type)
     {
-        // You can add more validations or different subtypes here
         return new Vehicle(licensePlate, type);
     }
 }

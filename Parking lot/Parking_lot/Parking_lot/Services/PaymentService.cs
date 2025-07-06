@@ -7,6 +7,6 @@ public class PaymentService
     public double CalculatePayment(Ticket ticket)
     {
         var duration = (ticket.ExitTime.Value - ticket.EntryTime).TotalHours;
-        return Math.Ceiling(duration) * 10; // ₹10/hour
+        return Math.Ceiling(duration) * 10; 
     }
 }

@@ -20,15 +20,12 @@ class Program
 
         var factory = new VehicleFactory();
         var vehicle = factory.CreateVehicle("MH12AB1234", VehicleType.Car);
-
-        // Park
+        
         var ticket = parkingLot.ParkVehicle(vehicle);
         Console.WriteLine($"Parked at Floor {ticket.FloorNumber}, Spot {ticket.Spot.Id}");
 
-        // Simulate delay
         System.Threading.Thread.Sleep(2000);
 
-        // Unpark
         var fee = parkingLot.UnparkVehicle(ticket.TicketId);
         Console.WriteLine($"Unparked. Pay ₹{fee}");
     }

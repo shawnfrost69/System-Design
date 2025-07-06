@@ -12,8 +12,6 @@ public class Vehicle
         Type = type;
     }
 }
-
-// Factories/VehicleFactory.cs
 public class VehicleFactory
 {
     public Vehicle CreateVehicle(string licensePlate, VehicleType type)
